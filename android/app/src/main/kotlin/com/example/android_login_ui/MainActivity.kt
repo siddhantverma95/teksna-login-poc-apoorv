@@ -1,4 +1,4 @@
-package com.example.teksna_login_poc_apoorv
+package com.example.android_login_ui
 
 import io.flutter.embedding.android.FlutterActivity
 
